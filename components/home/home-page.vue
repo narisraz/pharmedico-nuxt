@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-black/5 h-screen">
+  <div>
     <TopNavbar />
 
     <div class="px-4">
