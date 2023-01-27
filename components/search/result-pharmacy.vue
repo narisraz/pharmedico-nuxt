@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="flex space-x-1 bg-white rounded-md shadow-md">
+    <div class="flex space-x-2 bg-white rounded-md shadow-md">
       <img class="w-40 object-cover" src="http://www.pharmaciedugrandjardin.com/wp-content/uploads/2011/03/Photo-Fa%C3%A7ade-36.jpg" />
       <div class="my-2">
         <div class="font-semibold">Pharmacie s. Namehana</div>

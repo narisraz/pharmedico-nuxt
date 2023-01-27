@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="flex space-x-1 bg-white rounded-md shadow-md">
+    <div class="flex space-x-2 bg-white rounded-md shadow-md">
       <img class="w-40 object-cover" src="https://f.hellowork.com/obs-static-images/seo/ObsJob/medecin-generaliste.jpg" />
       <div class="my-2">
         <div class="font-semibold">Razafimahatratra Naris Noël</div>
