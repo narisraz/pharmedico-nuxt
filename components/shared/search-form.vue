@@ -1,6 +1,6 @@
 <template>
   <form>
-    <div class="my-2 relative">
+    <div class="relative">
       <button class="absolute inset-y-0 px-2 items-center">
         <SearchIcon />
       </button>
