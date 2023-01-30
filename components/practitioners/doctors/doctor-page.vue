@@ -57,23 +57,7 @@
       <div class="mt-4">
         <h1 class="text-green-400 font-semibold uppercase">Commentaires</h1>
         <div>
-          <div class="bg-white p-2 my-2 w-full">
-            <RatingStars />
-            <div class="pt-1">
-              <span class="text-blue-500">Naris</span><span class="text-sm"> - 23/12/2022</span>
-            </div>
-            <p>
-              "Très bon médecin"
-            </p>
-          </div><div class="bg-white p-2 my-1 w-full">
-            <RatingStars />
-            <div class="pt-1">
-              <span class="text-blue-500">Naris</span><span class="text-sm"> - 23/12/2022</span>
-            </div>
-            <p>
-              "Accueil parfait"
-            </p>
-          </div>
+          <CommentItem />
         </div>
       </div>
 
@@ -83,10 +67,11 @@
 
 <script lang="ts">
 import Vue from 'vue'
+import CommentItem from '~/components/shared/comment-item.vue';
 import RatingStars from '~/components/shared/rating-stars.vue';
 import TopNavbar from '~/components/shared/top-navbar.vue';
 
 export default Vue.extend({
-    components: { TopNavbar, RatingStars }
+    components: { TopNavbar, RatingStars, CommentItem }
 })
 </script>
