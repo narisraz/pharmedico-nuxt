@@ -15,6 +15,9 @@ export default {
         href: "https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap",
       },
     ],
+    bodyAttrs: {
+      class: 'pb-2 bg-black/5'
+    }
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
