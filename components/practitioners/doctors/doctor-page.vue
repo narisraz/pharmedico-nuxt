@@ -11,7 +11,7 @@
             Dr Razafimahatratra Naris
           </div>
           <div class="text-sm">
-            Médecin généraliste
+            Médecin généraliste (<span class="font-semibold text-green-500"> +16 ans Exp.</span>)
           </div>
           <div class="mt-1">
             <RatingStars />
@@ -30,6 +30,13 @@
         <p class="font-light">
           Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page, le texte définitif venant remplacer le faux-texte dès qu'il est prêt ou que la mise en page est achevée.
         </p>
+      </div>
+
+      <div class="mt-4">
+        <h1 class="text-green-400 font-semibold uppercase">Informations légales</h1>
+        <div>
+          <label class="font-semibold">ONM : </label>12345678
+        </div>
       </div>
 
       <div class="mt-4">
