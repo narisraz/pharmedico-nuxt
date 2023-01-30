@@ -5,7 +5,7 @@
         <SearchIcon />
       </button>
 
-      <input type="text" class="w-full border p-2 pl-10 rounded-md shadow-md" placeholder="Rechercher...">
+      <input type="text" class="w-full border p-2 pl-10 rounded-md shadow-md focus:outline-0 focus:shadow-green-200" placeholder="Rechercher...">
     </div>
   </form>
 </template>
