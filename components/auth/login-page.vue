@@ -22,7 +22,7 @@
             <path stroke-linecap="round" stroke-linejoin="round" d="M16.5 10.5V6.75a4.5 4.5 0 10-9 0v3.75m-.75 11.25h10.5a2.25 2.25 0 002.25-2.25v-6.75a2.25 2.25 0 00-2.25-2.25H6.75a2.25 2.25 0 00-2.25 2.25v6.75a2.25 2.25 0 002.25 2.25z" />
           </svg>
         </div>
-        <input id="email" type="text" name="email" placeholder="Entrez votre mot de passe" class="bg-white/5 border-b-2 pl-8 py-2 w-full focus:ring-transparent" />
+        <input id="email" type="password" name="email" placeholder="Entrez votre mot de passe" class="bg-white/5 border-b-2 pl-8 py-2 w-full focus:ring-transparent" />
       </div>
       <a class="text-blue-500 font-semibold text-sm mt-1 text-right">Mot de passe oublié</a>
     </div>
