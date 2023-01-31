@@ -8,7 +8,6 @@ import LoginPage from '~/components/auth/login-page.vue';
 
 export default Vue.extend({
     name: "IndexPage",
-    components: { LoginPage },
-    layout: "client"
+    components: { LoginPage }
 })
 </script>
