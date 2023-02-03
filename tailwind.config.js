@@ -9,7 +9,13 @@ module.exports = {
     "./app.vue",
   ],
   theme: {
-    extend: {},
+    extend: {
+      extend: {
+        transitionProperty: {
+          width: "width"
+        }
+      }
+    },
   },
   plugins: [],
 }
